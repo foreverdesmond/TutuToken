@@ -41,15 +41,14 @@ contract Tutu is ERC20 {
         _;
     }
 
-    function claim() external payable sufficientClaimFee {
-        // 检查用户是否持有 LXP
-        ILXP lxp = ILXP(lxpContract);
+    function claim(uint256 amount) external payable sufficientClaimFee {
+        uint256 claimableAmount = amount * 10 ** 18;
+
         require(
-            lxp.balanceOf(msg.sender) > 0,
-            "You do not hold any LXP tokens"
+            ILXP(lxpContract).balanceOf(msg.sender) >= claimableAmount,
+            "You do not hold enough LXP tokens"
         );
 
-        uint256 claimableAmount = getClaimableAmount(msg.sender);
         require(claimableAmount > 0, "No TUTU tokens left to claim");
 
         developerBalance += msg.value;
