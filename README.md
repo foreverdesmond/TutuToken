@@ -7,7 +7,8 @@ TutuToken 是一个以可爱兔子为形象的 Meme 代币，基于 Linea 区块
 
 ## Contract Address | 合约地址 
 - **Linea Mainnet | Linea 主网 :** 
-`0x81957f4ac4fae880b164740d39208a22afd7a398`
+- `0x81957f4ac4fae880b164740d39208a22afd7a398`
+https://explorer.linea.build/address/0x81957f4ac4fae880b164740d39208a22afd7a398
 
 ## Features | 功能 
 - **Token Name | 代币名称 :** 
@@ -31,9 +32,9 @@ TutuToken 是一个以可爱兔子为形象的 Meme 代币，基于 Linea 区块
 - 开发者可以提取累积的 gas 费用
 
 ## Deployment | 部署
-The contract is deployed on the Linea mainnet, and users can interact with it via the contract address.
-合约已经部署在 Linea 主网，用户可以通过合约地址进行交互。
+- The contract is deployed on the Linea mainnet, and users can interact with it via the contract address.
+- 合约已经部署在 Linea 主网，用户可以通过合约地址进行交互。
 
 ## License | 许可证
-This project is licensed under the MIT License.
-此项目采用 MIT 许可证。
+- This project is licensed under the MIT License.
+- 此项目采用 MIT 许可证。
