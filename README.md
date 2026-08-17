@@ -1,18 +1,24 @@
 # TutuToken 🐻
 
-**TUTU ERC-20 Token Contract on Linea | 基于 Linea 的 TUTU ERC-20 代币合约**
-
-<p align="center">
-  <a href="#简体中文">简体中文</a> · <a href="#english">English</a>
-</p>
-
 <div align="center">
+  <img src="logo.png" alt="Tutu Logo" width="120" height="120" />
+
+  **TUTU ERC-20 Token Contract on Linea | 基于 Linea 的 TUTU ERC-20 代币合约**
+
+  A cute rabbit-themed meme token contract on Linea, claimable by all Linea LXP holders
+
+  基于 Linea 的可爱兔子 Meme 代币合约，所有 Linea LXP 持有者均可领取代币
+
   🌐 **Live Demo | 在线演示**: [https://tututoken.cc](https://tututoken.cc)
-  <br/>
+
   [![X (Twitter)](https://img.shields.io/badge/X-@Richyisaflower-black?logo=x)](https://x.com/Richyisaflower)
   [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
   [![Solidity](https://img.shields.io/badge/Solidity-0.8.x-blue)](https://soliditylang.org/)
 </div>
+
+<p align="center">
+  <a href="#简体中文">简体中文</a> · <a href="#english">English</a>
+</p>
 
 ---
 
