@@ -1,7 +1,7 @@
 # TutuToken 🐻
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/foreverdesmond/Tutu-Web-App/main/public/images/logo.png" alt="Tutu Logo" width="120" height="120" />
+  <img src="logo.png" alt="Tutu Logo" width="120" height="120" />
 
   **TUTU ERC-20 Token Contract on Linea | 基于 Linea 的 TUTU ERC-20 代币合约**
 
